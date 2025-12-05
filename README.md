@@ -18,20 +18,4 @@ No exception handling needed
 
 Compatible with most university/online judge platforms
 
- Input Format
-
-A single line of integers separated by spaces.
-
-Example:
-1 0 4 3 2 5 6 7
-
-Output Format
-
-Each chunk printed on a new line.
-
-Example Output:
-1 0
-4 3 2
-5
-6
-7
+ 
